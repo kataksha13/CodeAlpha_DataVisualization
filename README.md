@@ -8,7 +8,7 @@ Visual story built from the book dataset scraped in Task 1
 
 ## Dashboard
 
-![Dashboard]("C:\Users\katak\Downloads\files (1)\charts\00_dashboard.png")
+[Dashboard](https://drive.google.com/file/d/1PwdHaDfjqKQSfycKZEA4sLcj5Ic0dkiV/view?usp=sharing)
 
 ## The story
 
