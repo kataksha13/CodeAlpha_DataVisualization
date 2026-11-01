@@ -3,7 +3,7 @@
 **CodeAlpha Data Analytics Internship, Task 3: Data Visualization**
 
 Visual story built from the book dataset scraped in Task 1
-([CodeAlpha_WebScraping](https://github.com/YOUR-USERNAME/CodeAlpha_WebScraping)):
+([CodeAlpha_WebScraping](https://github.com/kataksha/CodeAlpha_WebScraping)):
 1,000 books from Books to Scrape with price, star rating and stock status.
 
 ## Dashboard
